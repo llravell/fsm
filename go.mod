@@ -1,4 +1,4 @@
-module fsm
+module github.com/llravell/fsm
 
 go 1.21.1
 
